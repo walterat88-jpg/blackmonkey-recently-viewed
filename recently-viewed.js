@@ -9,7 +9,7 @@
   var DISPLAY_COUNT = 6;
 
   // URL del ícono del ojo servido desde jsDelivr (se reemplaza al pinear el commit).
-  var BM_EYE_ICON = 'https://cdn.jsdelivr.net/gh/USUARIO/REPO@COMMIT_HASH/eye-icon.png';
+  var BM_EYE_ICON = 'https://cdn.jsdelivr.net/gh/walterat88-jpg/blackmonkey-recently-viewed@c412177a891b44fa7a0eda81687373cc30f1bcf1/eye-icon.png';
 
   var STYLE = '' +
     '#bm-recently-viewed{position:fixed!important;top:50%;right:0;transform:translateY(-50%);z-index:999999!important;display:flex;align-items:stretch;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;}' +
